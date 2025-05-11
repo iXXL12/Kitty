@@ -1,0 +1,25 @@
+main > .container {
+    background-color: white;
+}
+
+main .LBody, main .RBody {
+    width: 12.35%;
+    min-height: 700px;
+    margin: 0;
+}
+
+main .LBody {
+    background: url("/Images/2020-06-14\ \(1\).jpg") no-repeat;
+    background-size: cover;
+    background-position: 18%;
+}
+
+main .RBody {
+    background: url("/Images/2020-06-14\ \(1\).jpg") no-repeat;
+    background-size: cover;
+    background-position: 80%;
+}
+
+main .Body {
+    width:72%;
+}
